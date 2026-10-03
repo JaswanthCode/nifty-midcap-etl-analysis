@@ -8,7 +8,7 @@ Build an ETL pipeline that combines daily NSE market data with quarterly and ann
 
 ## Stock Universe
 
-The project uses the top 10 constituents of the NIFTY Midcap 100 based on the March 30, 2026 month-end index snapshot.
+The project uses the top 10 NIFTY Midcap 100 stocks from the March-end 2026 benchmark snapshot, with the source factsheet dated March 31, 2026.
 
 ## Technologies
 
